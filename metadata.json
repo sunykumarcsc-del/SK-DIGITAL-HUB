@@ -1,0 +1,6 @@
+{
+  "name": "SK CSC Center",
+  "description": "Digital Seva & Print Tools platform for SK CSC Center, Etawah. Passport photo maker, document cropping, PDF tools, CSC service assistance & print workflow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
